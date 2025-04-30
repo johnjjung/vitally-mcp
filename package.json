@@ -1,0 +1,13 @@
+{
+  "name": "vitally",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "John Jung",
+  "license": "MIT",
+  "copyright": "Copyright (c) 2024 John Jung",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
