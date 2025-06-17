@@ -4,6 +4,10 @@
 
 An MCP (Model Context Protocol) server that provides access to Vitally customer data via the Vitally API.
 
+## Containerized
+
+If you need a containerized version, check out [github.com/fiscaltec/vitally-mcp](https://github.com/fiscaltec/vitally-mcp)
+
 ## Features
 
 - List customer accounts as resources
